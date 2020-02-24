@@ -19,17 +19,34 @@ $db = [
     <!-- Header -->
     <header>
       <div class="header-top clearfix">
-        <!-- <div class="box_logo clearfix"> -->
-          <a class="logo float" href="#">
-            <img src="img/download.png" alt="logo Google">
-          </a>
-          <h2 class="float">
-            <a href="#">Privacy e termini</a>
-          </h2>
-        <!-- </div> -->
-
+        <a class="logo float" href="#">
+          <img src="img/download.png" alt="logo Google">
+        </a>
+        <h2 class="float">
+          <a href="#">Privacy e termini</a>
+        </h2>
       </div>
-      <div class="header-bottom">
+      <div class="header-bottom clearfix">
+        <ul>
+          <li>
+            <a href="#">Introduzione</a>
+          </li>
+          <li>
+            <a href="#">Norme sulla privacy</a>
+          </li>
+          <li>
+            <a href="#">Termini di servizio</a>
+          </li>
+          <li>
+            <a href="#">Tecnologie</a>
+          </li>
+          <li>
+            <a href="#">Domande frequenti</a>
+          </li>
+          <li>
+            <a href="#">Account Google</a>
+          </li>
+        </ul>
       </div>
     </header>
     <!-- /Header -->
