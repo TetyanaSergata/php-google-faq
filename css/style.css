@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Roboto' ;
+  color: #5F6368;
+}
+.clearfix:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.float{
+  float: left;
+}
+
+/* Header */
+.header-top{
+  height: 50px;
+  width: 100%;
+  background-color: lightyellow;
+  margin: 20px;
+}
+
+.header-top h2{
+  vertical-align: middle;
+  line-height: 50px;
+  margin-left: 20px;
+}
+
+.logo img{
+  height: 50px;
+}
+
+.header-top a{
+  text-decoration: none;
+  color: #5F6368;
+}
