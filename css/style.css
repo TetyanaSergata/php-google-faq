@@ -69,9 +69,11 @@ body{
 /* Main */
 .wrapper{
   width: 80%;
-  height: 900px;
   margin: 0px auto;
   padding-top: 100px;
+  padding-bottom: 50px;
+  /* color: #535353; */
+  color: #3C4043;
 }
 
 .wrapper li{
@@ -79,5 +81,26 @@ body{
 }
 
 .wrapper h2{
-  color: #3C4043;
+  line-height: 35px;
+}
+
+.wrapper p{
+  font-size: 15px;
+  line-height: 25px;
+}
+
+/* Footer */
+footer{
+  width: 100%;
+  height: 60px;
+  background-color: #F0F0F0;
+}
+
+.footer-info li{
+  display: inline-block;
+  list-style: none;
+}
+.footer-info li a{
+  text-decoration: none;
+
 }
