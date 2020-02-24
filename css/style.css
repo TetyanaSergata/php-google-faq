@@ -60,3 +60,12 @@ body{
 .header-bottom li:last-child {
   float: right;
 }
+
+/* Main */
+.wrapper{
+  width: 80%;
+  height: 900px;
+  margin: 0px auto;
+  padding-top: 100px;
+  background-color: lightgreen;
+}

@@ -52,6 +52,9 @@ $db = [
     <!-- /Header -->
     <!-- Main -->
     <main>
+      <div class="wrapper">
+
+      </div>
 
     </main>
     <!-- /Main -->
