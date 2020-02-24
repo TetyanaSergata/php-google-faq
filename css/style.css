@@ -57,6 +57,11 @@ body{
   font-weight: bold;
 }
 
+.header-bottom .color_blue{
+  color: #3367D6;
+  border-bottom: 3px solid #3367D6;
+}
+
 .header-bottom li:last-child {
   float: right;
 }
@@ -67,5 +72,12 @@ body{
   height: 900px;
   margin: 0px auto;
   padding-top: 100px;
-  background-color: lightgreen;
+}
+
+.wrapper li{
+  list-style: none;
+}
+
+.wrapper h2{
+  color: #3C4043;
 }
