@@ -104,20 +104,23 @@ $db = [
     <!-- /Main -->
     <!-- Footer -->
     <footer>
-      <ul class="footer-info">
-        <li>
-          <a href="#">Google</a>
-        </li>
-        <li>
-          <a href="#">Tutto su Google</a>
-        </li>
-        <li>
-          <a href="#">Privacy</a>
-        </li>
-        <li>
-          <a href="#">Termini</a>
-        </li>
-      </ul>
+      <div class="footer-info">
+        <ul>
+          <li>
+            <a href="#">Google</a>
+          </li>
+          <li>
+            <a href="#">Tutto su Google</a>
+          </li>
+          <li>
+            <a href="#">Privacy</a>
+          </li>
+          <li>
+            <a href="#">Termini</a>
+          </li>
+        </ul>
+
+      </div>
     </footer>
     <!-- /Footer -->
   </body>
