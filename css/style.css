@@ -88,6 +88,11 @@ body{
   line-height: 25px;
 }
 
+.faq_answer a{
+  text-decoration: none;
+  color: #4A78DA;
+}
+
 /* Footer */
 footer{
   width: 100%;
